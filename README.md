@@ -1,0 +1,2 @@
+# Interactive-Dashboard-for-The-HR-Consultation-Insights
+The project of Interactive Dashboard for The HR Consultation Insights. HR Department's data has been utilized to create an informative dashboard. The project's main objective is to provide a concise overview of crucial requirements or rapidly acquire knowledge about specific tasks. The dashboard is designed to be interactive, allowing users to gain insights and access desired information through classification.
